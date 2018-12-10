@@ -11,22 +11,9 @@
     "python.pythonPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
     "python.linting.pylintEnabled": true,
     "python.linting.pylintUseMinimalCheckers": false,
-    "npm.useRootDirectory": false,
-    "npm.includeDirectories": [
-        "src/front-end",
-    ],
-    "npm-intellisense.importLinebreak": ";\n",
-    "npm.packageManager": "yarn",
     "files.trimTrailingWhitespace": true,
     "files.trimFinalNewlines": true,
     "editor.rulers": [
         120,
     ],
-    "tslint.enable": true,
-    "tslint.configFile": "src/front-end/tslint.json",
-    "tslint.nodePath": "src/front-end/node_modules",
-    "tslint.packageManager": "yarn",
-    "files.associations": {
-        "*.config": "ini",
-    },
 }
